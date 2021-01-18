@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1610935339751,
+  "timestamp": 1610935616614,
   "index": "angular-love-calc/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "angular-love-calc/favicon.ico",
         "angular-love-calc/index.html",
-        "angular-love-calc/main.37c286d60e4f732da9f4.js",
+        "angular-love-calc/main.efd4e4ad3144d6f2a845.js",
         "angular-love-calc/manifest.webmanifest",
         "angular-love-calc/polyfills.8c151b8375e767ff858f.js",
         "angular-love-calc/runtime.0e49e2b53282f40c8925.js",
@@ -52,8 +52,8 @@
     "angular-love-calc/assets/icons/icon-72x72.png": "d79f3ceb3c847e7e9737d8dfac59381d8095f6f7",
     "angular-love-calc/assets/icons/icon-96x96.png": "b9fff3c4328460ad17acad3116e45fa859b8b355",
     "angular-love-calc/favicon.ico": "322f2e079fe8a2a0cdd6fb186bbb6a74fb68192a",
-    "angular-love-calc/index.html": "c74a3828dc33a620926ab01f432c9e00926fbbc2",
-    "angular-love-calc/main.37c286d60e4f732da9f4.js": "05922055c4a0821a14d3effc21135d3343135934",
+    "angular-love-calc/index.html": "3de007b22e4d657bda0ac8aca27636d742f908af",
+    "angular-love-calc/main.efd4e4ad3144d6f2a845.js": "e88f85026af293cfc9802299c568cdb4eb599dd6",
     "angular-love-calc/manifest.webmanifest": "b9d1fdaf80fb3e839ea776072023cba96fbf39ac",
     "angular-love-calc/polyfills.8c151b8375e767ff858f.js": "763cd3b34dfa4600ebb9d9588ec7116988e98920",
     "angular-love-calc/runtime.0e49e2b53282f40c8925.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
